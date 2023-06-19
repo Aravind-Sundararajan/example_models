@@ -1,8 +1,12 @@
-[submodule "1joint"]
-	path = 1joint
+[submodule "S01"]
+	path = S01
 	url = git@github.com:Aravind-Sundararajan/1joint.git
-	branch = generic
-[submodule "2joint"]
-	path = 2joint
-	url = git@github.com:Aravind-Sundararajan/2joint.git
+	branch = S01
+[submodule "S02"]
+	path = S02
+	url = git@github.com:Aravind-Sundararajan/1joint.git
+	branch = S02
+[submodule "generic"]
+	path = generic
+	url = git@github.com:Aravind-Sundararajan/1joint.git
 	branch = generic
